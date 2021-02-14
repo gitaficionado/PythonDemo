@@ -1,0 +1,9 @@
+def add_nums(a,b):
+  #students should add thier compile
+  #you need to a and b together
+  total = a + b 
+  return total 
+def main():
+    n = add_nums(3,4) 
+    print(n)
+main()
