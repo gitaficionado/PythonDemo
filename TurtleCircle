@@ -1,0 +1,19 @@
+import turtle
+t = turtle.Turtle()
+
+
+
+'''
+t.left(90)
+t.forward(90)
+'''
+t.color("red")
+t.forward(100)
+t.color("blue")
+t.color("purple")
+t.fillcolor("yellow")         
+t.begin_fill()
+t.circle(90)
+t.end_fill()
+
+t.goto(0,0)
